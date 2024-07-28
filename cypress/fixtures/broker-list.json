@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Aleksandar Petkov",
+    "address": "Sofia / Office Center",
+    "landline": "+359 2 926 26",
+    "mobile": "+359 888 106 040",
+    "properties": 12
+  },
+  {
+    "name": "Anas Hamid",
+    "address": "Sofia / Front Office",
+    "landline": "+359 2 476 00 00",
+    "mobile": "+359 884 608 700",
+    "properties": 10
+  },
+  {
+    "name": "Angelina Dimitrova",
+    "address": "Sofia / Office \"Oborishte\"",
+    "landline": "+359 28 10 50 70",
+    "properties": 16
+  },
+  {
+    "name": "Anna Peycheva",
+    "address": "Sofia / Office Center",
+    "landline": "+359 2 926 26",
+    "mobile": "+359  888 106 040",
+    "properties": 13
+  },
+  {
+    "name": "Anna Yaramova",
+    "address": "Sofia / Office \"Yavlena-Iztok\"",
+    "landline": "+359 24 511 827",
+    "mobile": "+359 882 222 321",
+    "properties": 27
+  },
+  {
+    "name": "Antoaneta Klain",
+    "address": "Sofia / Office Eminesku",
+    "landline": "+359 28 10 50 50",
+    "properties": 10
+  },
+  {
+    "name": "Antonia Spasova",
+    "address": "Sofia / Office Center",
+    "landline": "+359 2 926 26",
+    "mobile": "+359 888 10 60 40",
+    "properties": 10
+  },
+  {
+    "name": "Biliana Markova",
+    "address": "Sofia / Office \"Yavlena-Iztok\"",
+    "landline": "+359 24 511 827",
+    "mobile": "+359 882 222 321",
+    "properties": 8
+  },
+  {
+    "name": "Bogdan Stefanov",
+    "address": "Sofia / Office Center",
+    "landline": "+359 2 926 26",
+    "mobile": "+359 888 106 040",
+    "properties": 5
+  },
+  {
+    "name": "Daniela Gergova",
+    "address": "Sofia / Office Mladost",
+    "landline": "+359 2 810 50 60",
+    "mobile": "+359 882 230 300",
+    "properties": 54
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "kin-carta",
+  "version": "1.0.0",
+  "description": "This is a test assigment from kin + carta",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ardit4liu/kinandcarta.git"
+  },
+  "author": "Ardit Aliu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ardit4liu/kinandcarta/issues"
+  },
+  "homepage": "https://github.com/Ardit4liu/kinandcarta#readme",
+  "devDependencies": {
+    "cypress": "^13.13.1"
+  }
+}
